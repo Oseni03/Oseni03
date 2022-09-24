@@ -104,7 +104,6 @@ Here are some ideas to get you started:
 
 <a href="mailto: oseniayomide57@gmail.com"><img src="https://img.shields.io/badge/-oseniayomide57@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<a href="https://twitter.com/Oseni03"><img src=https://img.shields.io/badge/-Oseni%20Twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
 
 </p>
 

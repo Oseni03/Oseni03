@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning ecommerce web development; 
+- 🌱 I’m currently learning jQuery and django-channels for bidirectional communication; 
 
 - 💬 Ask me about anything, I am happy to help;
 
